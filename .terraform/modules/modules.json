@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"vnet","Source":"git::https://github.com/sudhasivaprakasam/terraform-module.git//modules/vnet","Dir":".terraform/modules/vnet/modules/vnet"}]}
